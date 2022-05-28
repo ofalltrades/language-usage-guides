@@ -2,7 +2,7 @@
 
 *Jake Johnson's Guide to Cleaner Code*
 
-*(NOTE: This guide contains recommendations. Some of them really matter. Many do not. In a job setting prefer the in-place standards when talking about things like camelCase versus snake_case and any other items that are opinions and not best practices.)*
+*(NOTE: This guide contains recommendations. Some of them really matter. Many do not. In a job setting prefer the in-house standards when talking about things like camelCase versus snake_case and any other items that are opinions and not best practices.)*
 
 # Table of Contents
 
