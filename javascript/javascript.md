@@ -6,11 +6,11 @@
 
 # Table of Contents
 
-[Rules](https://github.com/ofalltrades/javascript#Rules)
+[Rules](https://github.com/ofalltrades/language-usage-guides/blob/master/javascript/javascript.md#Rules)
 
-[Recommendations](https://github.com/ofalltrades/javascript#Recommendations)
+[Recommendations](https://github.com/ofalltrades/language-usage-guides/blob/master/javascript/javascript.md#Recommendations)
 
-[Reasoning](https://github.com/ofalltrades/javascript#Reasoning)
+[Reasoning](https://github.com/ofalltrades/language-usage-guides/blob/master/javascript/javascript.md#Reasoning)
 
 # Rules
 
